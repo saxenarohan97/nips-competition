@@ -1,0 +1,11 @@
+Goodfellow's original paper :
+https://arxiv.org/pdf/1406.2661.pdf
+
+Goodfellow NIPS 2016 tutorial :
+https://arxiv.org/pdf/1701.00160.pdf
+
+Slides and video for that tutorial :
+https://nips.cc/Conferences/2016/Schedule?showEvent=6202
+
+A blog post :
+http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
