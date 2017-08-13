@@ -9,3 +9,6 @@ https://nips.cc/Conferences/2016/Schedule?showEvent=6202
 
 A blog post :
 http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
+
+Youtube video goodfellow:
+https://www.youtube.com/watch?v=HN9NRhm9waY
