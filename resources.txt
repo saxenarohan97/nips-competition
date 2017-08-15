@@ -18,3 +18,5 @@ IMPORTANT READS --
 #http://karpathy.github.io/2015/03/30/breaking-convnets/
 
 #https://arxiv.org/pdf/1412.6572.pdf
+
+#https://arxiv.org/pdf/1602.02697v2.pdf
