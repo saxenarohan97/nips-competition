@@ -12,3 +12,9 @@ http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
 
 Youtube video goodfellow:
 https://www.youtube.com/watch?v=HN9NRhm9waY
+
+IMPORTANT READS --
+
+#http://karpathy.github.io/2015/03/30/breaking-convnets/
+
+#https://arxiv.org/pdf/1412.6572.pdf
